@@ -1,1 +1,6 @@
-console.log("day 2 started");ƒ
+
+function sayHello(name) {
+  console.log("Hello, " + name);
+}
+
+sayHello("Mila");
